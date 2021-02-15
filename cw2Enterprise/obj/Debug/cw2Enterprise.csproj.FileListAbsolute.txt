@@ -1,0 +1,12 @@
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\bin\Debug\cw2Enterprise.exe.config
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\bin\Debug\cw2Enterprise.exe
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\bin\Debug\cw2Enterprise.pdb
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.csprojAssemblyReference.cache
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.createContactForm.resources
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.createEventForm.resources
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.timemanagmentTool.resources
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.Properties.Resources.resources
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.csproj.GenerateResource.cache
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.exe
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.pdb
+C:\Users\Tugrul\OneDrive\Desktop\Enterpirse Application Development\cw2Enterprise\cw2Enterprise\obj\Debug\cw2Enterprise.monthlyView.resources

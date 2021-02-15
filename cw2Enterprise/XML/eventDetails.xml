@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<array>
+  <Events>
+    <EventName>Meeting with clients</EventName>
+    <Date>06/12/2019	 09:00</Date>
+    <Location>New Cavendish Road</Location>
+    <Reoccurence>Weekly</Reoccurence>
+    <Event_Type>Appointment</Event_Type>
+    <Contact_Details>Artie</Contact_Details>
+    <Notes>Discuss project</Notes>
+  </Events>
+  <Events>
+    <EventName>Complete CW2</EventName>
+    <Date>12/12/2019	 13:00</Date>
+    <Location>Westminster University</Location>
+    <Reoccurence>One-Off Event</Reoccurence>
+    <Event_Type>Task</Event_Type>
+    <Contact_Details>Gab</Contact_Details>
+    <Notes>Complete implementation</Notes>
+  </Events>
+  <Events>
+    <EventName>PARTY ALL WEEKEND</EventName>
+    <Date>13/12/2019	 09:00</Date>
+    <Location>ANYWHERE AND EVERYWHERE</Location>
+    <Reoccurence>One-Off Event</Reoccurence>
+    <Event_Type>Task</Event_Type>
+    <Contact_Details>NO ONE</Contact_Details>
+    <Notes>PARTY PARTY</Notes>
+  </Events>
+</array>
